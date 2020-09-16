@@ -2,7 +2,7 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "../di-gi/scss/style.scss"
+        "../scss/style.scss"
     ],
     "names": [],
     "file": "style.css"
