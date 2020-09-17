@@ -1,2 +1,7 @@
 .DS_Store
 mob-first.fig
+fonts/Dosis
+fonts/Roboto
+fonts/Roboto_Condensed
+fonts/*.ttf
+node_modules
